@@ -1,0 +1,9 @@
+<Limit ALL>
+Allow 211.219.163.41
+Allow 192.168.8.101
+Allow 222.237.176.27
+Allow 126.204.195.246
+Allow 110.11.222.131
+Allow 127.0.0.1
+DenyAll
+</Limit>
