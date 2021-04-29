@@ -3,13 +3,14 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Home</title>
+	<title>LoginResult</title>
 </head>
 <body>
-	<h1>Home</h1>
+	<h1>LoginResult</h1>
 
-    <form action="Login" method="get">
-        <button type="submit">로그인</button>
+    <form action="./" method="get">
+    	결과: ${result} <br>
+        <button type="submit">홈으로</button>
     </form>
 </body>
 </html>
